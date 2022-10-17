@@ -1,0 +1,12 @@
+.messages {
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    scrollbar-width: none;
+  }
+  
+  .textarea
+  {
+    height: 100px;
+    background-color: #cad2ca3e;
+  }
